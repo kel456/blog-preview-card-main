@@ -43,6 +43,7 @@ body{
 
 .card:hover{
     box-shadow: 16px 16px var(--color-text-primary);
+    transform: translateX(-8px) translateY(-8px);
 }
 
 .thumbnail{
